@@ -1,0 +1,16 @@
+# data ignores to prevent accidental commits
+kd_answers.csv.xz
+kd_answers.csv
+kd_topics.csv.xz
+kd_topics.csv
+
+# mallet output
+kd_topics.csv.mallet
+kd_topics.csv.mallet-model
+kd_topics.csv.mallet-state
+
+# mallet ignores
+mallet
+mallet/
+mallet-*.tar.gz
+mallet-*/
