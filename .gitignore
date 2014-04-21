@@ -5,12 +5,12 @@ kd_topics.csv.xz
 kd_topics.csv
 
 # mallet output
-kd_topics.csv.mallet
-kd_topics.csv.mallet-model
-kd_topics.csv.mallet-state
+kd_*.csv.mallet
+kd_*.csv.mallet-model
+kd_*.csv.mallet-state
 
-kd_topics.csv.stdout
-kd_topics.csv.stderr
+kd_*.csv.stdout
+kd_*.csv.stderr
 
 # mallet ignores
 mallet
